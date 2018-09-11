@@ -1,0 +1,4 @@
+flask
+paramiko
+flask-wtf
+wtforms
